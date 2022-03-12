@@ -1,1 +1,1 @@
-'ffff', 'fatality28', 'killua', 'lolnet27', 
+lolnet27 kaine stoyack
