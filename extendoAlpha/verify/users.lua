@@ -1,1 +1,1 @@
-"lolnet27", lolnet27
+lolnet27
