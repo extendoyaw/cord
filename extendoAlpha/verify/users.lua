@@ -1,1 +1,1 @@
-"1337", "kano1337"
+"lolnet27", lolnet27
