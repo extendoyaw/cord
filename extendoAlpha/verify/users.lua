@@ -1,1 +1,1 @@
-ffff, fatality28, killua
+'ffff', 'fatality28', 'killua', 'lolnet27', 
